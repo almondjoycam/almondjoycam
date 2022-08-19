@@ -1,7 +1,7 @@
 ### Camber Boles @almondjoycam
 - they/them
-- studying computer science at Purdue
-- looking to specialize in computer graphics & visualization
+- digital illustration and front end web development
+- ask me about web accessibility
 
 <!---
 almondjoycam/almondjoycam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
