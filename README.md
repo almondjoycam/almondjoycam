@@ -1,5 +1,5 @@
 ### Camber Boles @almondjoycam
-- they/them
+- it/they
 - digital illustration and front end web development
 - ask me about web accessibility
 
